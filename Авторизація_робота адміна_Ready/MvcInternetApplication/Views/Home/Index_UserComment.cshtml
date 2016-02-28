@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MvcInternetApplication.Models.UserComment>
+
+@{
+    ViewBag.Title = "Index_UserComment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+}
+
+<h2>Index_UserComment</h2>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.E_mail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LabelText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.E_mail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LabelText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit_UserComments", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details_UserComments", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete_UserComments", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

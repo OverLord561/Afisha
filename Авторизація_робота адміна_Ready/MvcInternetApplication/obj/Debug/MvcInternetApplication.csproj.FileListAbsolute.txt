@@ -1,0 +1,482 @@
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\MvcInternetApplication.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Spatial.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\System.Spatial.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\bin\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\MvcInternetApplication\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\MvcInternetApplication.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Spatial.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Spatial.xml
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\Lessons\ASP.NET MVC Fundamentals\007_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\MvcInternetApplication.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.AspNet.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.Core.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.Edm.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.OData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Spatial.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.OData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.AspNet.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.Core.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OAuth.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Web.Http.OData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.Edm.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\Microsoft.Data.OData.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\System.Spatial.xml
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\de\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\es\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\it\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\de\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\es\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\fr\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\it\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ja\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ko\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\ru\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hans\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\bin\zh-Hant\System.Spatial.resources.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\Lessons\ASP.NET MVC Fundamentals\008_Filters_And_Authorization\003_MvcInternetApplicationRoles\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\ITVDN\[ITVDN] ASP.NET MVC Fundamentals - 2014\[ITVDN] ASP.NET MVC Fundamentals\008_Filters_And_Authorization\Новая папка (2)\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна - копия\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Майже готово\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.SqlServer.dll
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.SqlServer.xml
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.Migrations.MigrateDB.resources
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.csproj.GenerateResource.Cache
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.Migrations.MigrateDB1.resources
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.Migrations.MigrateDB2.resources
+D:\AMSU\4 курс\Диплом\Наброски\Новая папка\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.SqlServer.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\EntityFramework.SqlServer.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.Infrastructure.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Helpers.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Deployment.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\System.Web.WebPages.Razor.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.Data.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\WebMatrix.WebData.xml
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.Data.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\bin\ru\WebMatrix.WebData.resources.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.dll
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.pdb
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.Migrations.Initial.resources
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.csproj.GenerateResource.Cache
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.Migrations.MigrateDB.resources
+D:\AMSU\4 курс\Диплом\Наброски\140523020535\Авторизація_робота адміна_Ready\MvcInternetApplication\obj\Debug\MvcInternetApplication.csprojResolveAssemblyReference.cache

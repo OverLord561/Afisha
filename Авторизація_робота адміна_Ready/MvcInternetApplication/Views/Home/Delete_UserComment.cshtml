@@ -1,0 +1,47 @@
+﻿@model MvcInternetApplication.Models.UserComment
+
+@{
+    ViewBag.Title = "Delete_UserComment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete_UserComment</h2>
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Tank</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.LabelText)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LabelText)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.E_mail)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.E_mail)
+    </div>
+</fieldset>
+
+<div class="display-label">
+         @Html.DisplayNameFor(model => model.Date)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Date)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index_UserComment")
+    </p>
+}

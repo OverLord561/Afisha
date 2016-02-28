@@ -1,0 +1,43 @@
+﻿@model MvcInternetApplication.Models.UserComment
+
+@{
+    ViewBag.Title = "Details_UserComments";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details_UserComments</h2>
+<fieldset>
+    <legend>Tank</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.LabelText)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LabelText)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.E_mail)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.E_mail)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Date)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Date)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

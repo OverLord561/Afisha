@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MvcInternetApplication.Models.CustomComment>
+
+<h4>Отзывы посетителей:</h4>
+                    <ul id="lists" class="feedback">
+                        @foreach (var v in Model)
+                        {
+                            <li>
+                                <div class="feedback-info">
+                                    <div class="feedback-name">
+                                        @v.User_Name
+                                    </div>
+                                    <div class="feedback-date">
+                                        <time datetime="2015-10-10">@v.Date</time>
+                                    </div>
+                                </div>
+                                <div class="feedback-text">
+                                    <p>@v.User_LabelText</p>
+                                </div>
+                            </li>
+                        }
+                         </ul>

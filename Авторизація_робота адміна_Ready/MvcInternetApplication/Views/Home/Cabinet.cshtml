@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Cabinet";
+}
+@model MvcInternetApplication.Models.LoginModel
+
+<div></div>
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+<div>
+    @if (ViewBag.UserNAME != null || ViewBag.UserMail!=null)
+    {
+  <h1>Hello, @ViewBag.UserNAME</h1> 
+        <h3>@ViewBag.UserMail</h3>
+    }
+    
+    else
+    {
+        <h3>Перезайдіть на свій профіль</h3>
+    }
+</div>
+
+
+<img width="250" height="200" src="@ViewBag.FileName"  />
+
+
+
+<h3>Виберіть файл для загрузки</h3>
+
+<form action="@Url.Action("Cabinet","Home")" method="post" enctype="multipart/form-data">
+    Файл - <input type="file" name="file" />
+    <br />
+    <input type="submit" />
+
+    <p>
+        @ViewBag.Message
+    </p>
+</form>
+
+

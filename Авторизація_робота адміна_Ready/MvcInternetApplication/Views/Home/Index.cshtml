@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Кіноафіша";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+           
+            
+                <h3>
+                    @Html.ActionLink("Sessions", "Index", "Sessions")| @Html.ActionLink("MovieHouses", "Index", "MovieHouses")
+                </h3>
+            @Html.Action("Index","Films")
+            
+        </div>
+    </section>
+}
